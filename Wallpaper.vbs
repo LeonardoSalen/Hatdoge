@@ -9,33 +9,40 @@ shell.SendKeys"  Fritziel,"
 WScript.Sleep 1000
 shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
-shell.SendKeys"No one"
+shell.SendKeys"Hoy Bonak"
 WScript.Sleep 1000
-shell.SendKeys" can bring"
+shell.SendKeys" english dapat to"
 WScript.Sleep 1000
-shell.SendKeys" so much"
+shell.SendKeys" kaso parang ang awkward"
 WScript.Sleep 1000
-shell.SendKeys" happiness"
+shell.Sendkeys" ayon ewan ko kung"
 WScript.Sleep 1000
-shell.SendKeys" to my life"
+shell.SendKeys" anong gayuma ba ginawa mo saken -_-"
+shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
-shell.SendKeys" as you."
+shell.SendKeys" kase ikaw padin talaga"
 WScript.Sleep 1000
-shell.SendKeys" I can't imagine"
+shell.SendKeys" like curious ako kung ano"
 WScript.Sleep 1000
-shell.SendKeys" what"
+shell.SendKeys" ginagawa mo araw-araw"
 WScript.Sleep 1000
-shell.SendKeys" my life"
-WScript.Sleep 1000
-shell.SendKeys" would"
-WScript.Sleep 1000
-shell.SendKeys" be"
-WScript.Sleep 1000
-shell.SendKeys" without you."
+shell.SendKeys" tas chinecheck if nanliligaw padin ung suitor mo. HAHAHAHAHAHA"
 WScript.Sleep 1000
 shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
-shell.SendKeys" "
+shell.SendKeys" I want to"
+WScript.Sleep 1000
+shell.SendKeys" court you again"
+WScript.Sleep 1000
+shell.SendKeys" and make sure"
+WScript.Sleep 1000
+shell.SendKeys" this time"
+WScript.Sleep 1000
+shell.SendKeys" it will works."
+WScript.Sleep 1000
+shell.SendKeys"{ENTER}"
+WScript.Sleep 1000
+shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
 shell.SendKeys" I want to"
 WScript.Sleep 1000
@@ -46,32 +53,6 @@ WScript.Sleep 1000
 shell.SendKeys" of my life"
 WScript.Sleep 1000
 shell.SendKeys" with you."
-WScript.Sleep 1000
-shell.SendKeys"{ENTER}"
-WScript.Sleep 1000
-shell.SendKeys"{ENTER}"
-WScript.Sleep 1000
-shell.SendKeys" You have"
-WScript.Sleep 1000
-shell.SendKeys" given me"
-WScript.Sleep 1000
-shell.SendKeys" so much"
-WScript.Sleep 1000
-shell.SendKeys" love and encouragement"
-WScript.Sleep 1000
-shell.SendKeys" that"
-WScript.Sleep 1000
-shell.SendKeys" I don’t think"
-WScript.Sleep 1000
-shell.SendKeys" I will be"
-WScript.Sleep 1000
-shell.SendKeys" able to"
-WScript.Sleep 1000
-shell.SendKeys" return"
-WScript.Sleep 1000
-shell.SendKeys" all that to"
-WScript.Sleep 1000
-shell.SendKeys" you."
 WScript.Sleep 1000
 shell.SendKeys"{ENTER}"
 WScript.Sleep 1000
